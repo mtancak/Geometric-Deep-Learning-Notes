@@ -6,10 +6,10 @@ https://arxiv.org/abs/2104.13478
 https://www.youtube.com/watch?v=PtA0lg_e5nA&list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3
 
 ## To-Do
-Remove incomplete sections
-Add notes for the remaining parts of the book and lectures
-Clarify some points in the notes
-Practice applying the theory
+* Remove incomplete sections
+* Add notes for the remaining parts of the book and lectures
+* Clarify some points in the notes
+* Practice applying the theory
 
 ## Introduction
 These are my notes for the Geometric Deep Learning proto-book by Michael M. Bronstein, Joan Bruna, Taco Cohen and Petar Veličković, as well as their youtube AMMI course. These notes cover around the first half of the book and the first 6 lectures of the course. The main reason for these notes is to cover some of the prerequisite knowledge and cover the main points covered in the material. Most of the material in these notes is not my own, it is mostly a collection of images and quotes/rewordings from different sources.
