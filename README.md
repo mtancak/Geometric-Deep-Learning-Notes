@@ -1,6 +1,9 @@
 # Geometric-Deep-Learning-Notes
 Notes and Review of the Geometric Deep Learning Proto-book by M Bronstein, J Bruna, T Cohen and P Velickovic
 
+https://arxiv.org/abs/2104.13478
+https://www.youtube.com/watch?v=PtA0lg_e5nA&list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3
+
 ## To-Do
 Remove incomplete sections
 Add notes for the remaining parts of the book and lectures
